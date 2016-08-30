@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Teresa" >
+
+  <TextView android:id="@+id/text"
+      android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+  
+              android:text="
+1.Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.
+ 
+ 
+                                                     2.If we have no peace, it is because we have forgotten that we belong to each other.
+              
+              
+                                     3.Peace begins with a smile.
+              
+              
+              4.Good works are links that form a chain of love.
+              
+              
+              5.In the home begins the disruption of the peace of the world.
+              
+              
+              6.Love until it hurts.
+              
+              
+              7.The best way to succeed in life is to act on the advice we give to others.
+              
+              
+              8.Life is a challenge, we must take it.
+              
+              
+              9.God gives us things to share, God doesn't give us things to hold
+              
+              
+              10.We can not do great things on this earth. We can only do small things with great love.
+              "
+               />
+    
+
+</RelativeLayout>

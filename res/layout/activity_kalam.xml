@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Kalam" 
+    >
+
+    <TextView android:id="@+id/text"
+              android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+              android:text="
+  1.For great men, religion is a way of making friends, small people make religion a fighting tool.
+  
+  
+                    2.If you fail, never give up because FAIL means, First Attempt In Learning.
+              
+              
+              3.If you want to shine like a sun. First burn like a sun.
+              
+              
+              4.Dream is not that which you see while sleeping it is something that does not let you sleep.
+              
+              
+              5.Man needs difficulties in life because they are necessary to enjoy the success.
+              
+              
+              6.Failure will never overtake me if my determination to succeed is strong enough.
+              
+              
+              7.Without your involvement you can not succeed. With your involvement you can not fail.
+              
+              
+              "
+               />
+    
+
+</RelativeLayout>

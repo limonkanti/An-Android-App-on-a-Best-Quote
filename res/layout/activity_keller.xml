@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Keller" >
+<TextView android:id="@+id/text"
+            android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+    
+              android:text=" 
+ 1.When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+       
+       
+                2.Although the world is full of suffering, it is full also of the overcoming of it.
+       
+       
+                3.People don't like to think, if one thinks, one must reach conclusions.
+       
+       
+       4.Happiness does not come from without, it comes from within.
+       
+       
+       5.Life is either a daring adventure or nothing at all.     
+       
+       
+                 6.Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties.
+       
+                 7.It is a terrible thing to see and have no vision."
+               />
+    
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Lincoln" >
+
+   <TextView android:id="@+id/text"
+            android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+    
+              android:text="
+1.No man is poor who has a Godly mother.
+            
+            
+                                   2.You cannot escape the responsibility of tomorrow by evading it today.
+            
+            
+      3.Whatever you are, be a good one.
+      
+      
+      4.Always bear in mind that your own resolution to succeed is more important than any one thing.
+      
+      
+      5.No man has a good enough memory to be a successful liar.
+      
+      
+                                             6.The best way to destroy an enemy is to make him a friend.
+      
+      
+                                               7.When I do good, I feel good. When I do bad, I feel bad. That's my religion.
+      
+      
+      8.Those who look for the bad in people will surely find it.
+      
+      
+                          9.Always bear in mind that your own resolution to succeed is more important than any one thing
+      
+      
+      "
+               />
+    
+
+</RelativeLayout>

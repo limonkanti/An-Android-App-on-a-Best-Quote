@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Mahatma" >
+
+   <TextView android:id="@+id/text"
+            android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+              android:text="
+ 1.First they ignore you, then they ridicule you, then they fight you, and then you win.
+ 
+ 
+                                           2.Live as if you were to die tomorrow. Learn as if you were to live forever.
+              
+              
+              3.Your tomorrow depends entirely on what you do today.
+              
+              
+              4.God has no religion.
+              
+              
+              5.Those who say religion has nothing to do with politics do not know what religion is.
+              
+              
+              6.Nothing is impossible for pure love.
+              
+              
+              7.One should not think of embracing another religion before one had fully understand his own.
+              
+              
+              8.Power is of two kinds. One is obtained by the fear of punishment and the other by acts of love. Power based on love is a thousand times more effective and permanent than the one derived from fear of punishment.
+              
+              
+              "
+               />
+    
+
+</RelativeLayout>

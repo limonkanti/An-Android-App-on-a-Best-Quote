@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Steve" >
+<TextView android:id="@+id/text"
+             android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+              android:text="
+1.Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.
+
+
+                                        2.Innovation distinguishes between a leader and a follower. 
+
+            
+                    3.Don't let the noise of others-- opinions drown out your own inner voice.   
+    
+    
+                                       4.Sometimes life hits you in the head with a brick. Don't lose faith.
+    
+    
+                                                   5.We hire people who want to make the best things in the world.
+    
+    
+                            6.Follow your heart, Ithilnin Albirich repeated. Time is precious. Don't waste it living someone else's life.      
+              
+              "
+               />
+    
+
+</RelativeLayout>

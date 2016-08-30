@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Mandela" >
+
+   <TextView android:id="@+id/text"
+      android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+              android:text="
+1.Education is the most powerful weapon which you can use to change the world.
+
+
+                                                                     2.A good head and a good heart are always a formidable combination.
+              
+              
+              3.Courageous people do not fear forgiving, for the sake of peace.
+              
+              
+              4.A man is not a man until he has a house of his own.
+              
+              
+              5.Don't Judge a person by his success stories, but only with how many times the person stood up, after falling down.
+              
+              
+                                            6.A man is not a man until he has a house of his own.
+             
+             
+                                                            7.Let your courage rise with danger.
+             
+             
+             8.Courage is not the absence of fear, but the triumph over it.
+             
+             9.The brave man is not he who does not feel afraid, but he who conquers that fear.
+              "
+               />
+    
+
+</RelativeLayout>

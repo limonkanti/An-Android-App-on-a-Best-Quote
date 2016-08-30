@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".Gates"
+    >
+
+   <TextView android:id="@+id/text"
+            android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+
+              android:text="
+1.Before you were born, your parents were not as boring as they are now. They got that way from paying your bills, cleaning your clothes and listening to you talk about how cool you thought you were. So before you save the rain forest from the parasites of your parents generation, try delousing the closet in your own room.
+
+
+
+      2.Our success has really been based on partnerships from the very beginning.    
+      
+      
+                                 3.Most people overestimate what they can do in one year and underestimate what they can do in ten years.
+      
+      
+                                     4.Life is not fair get used to used to it.
+      
+      
+      5.The best teacher is very interactive.
+      
+      
+      6.I spend a lot of time reading.    
+      
+      
+      7.Success is a lousy teacher. It seduces smart people into thinking they can not lose.
+              "
+               />
+    
+
+</RelativeLayout>

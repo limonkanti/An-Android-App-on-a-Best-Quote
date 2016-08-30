@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    >
+<TextView android:id="@+id/text"
+               android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:textColor="#FAFAFA"
+    android:textStyle="normal"
+    
+
+    android:textSize="18dp"
+              android:text="
+1.The world is the great gymnasium where we come to make ourselves strong.
+              
+              
+              2.Education is the manifestation of perfection already existing in man.
+              
+              
+              3.You cannot believe in God until you believe in yourself.
+              
+              
+              4.Arise,awake,stop not until your goal is achieved.
+              
+              
+   5.Strength is Life, Weakness is Death. Expansion is Life, Contraction is Death. Love is Life, Hatred is Death.
+              
+              
+              6.They alone live, who live for others.
+              
+              
+              7.religion is no matter of books and beliefs, but of spiritual realisation.
+              
+              
+              8.God did not give me everything that i wanted. But, He gave me everything that i needed!
+              "
+               />
+    
+</RelativeLayout>

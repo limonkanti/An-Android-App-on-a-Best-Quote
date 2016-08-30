@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bestquote"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.bestquote.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Quotelist"
+            android:label="@string/title_activity_quotelist" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Swami"
+            android:label="@string/title_activity_swami" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Kalam"
+            android:label="@string/title_activity_kalam" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Mahatma"
+            android:label="@string/title_activity_mahatma" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Mandela"
+            android:label="@string/title_activity_mandela" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Teresa"
+            android:label="@string/title_activity_teresa" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Steve"
+            android:label="@string/title_activity_steve" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Gates"
+            android:label="@string/title_activity_gates" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Lincoln"
+            android:label="@string/title_activity_lincoln" >
+        </activity>
+        <activity
+            android:name="com.example.bestquote.Keller"
+            android:label="@string/title_activity_keller" >
+        </activity>
+    </application>
+
+</manifest>
